@@ -8,6 +8,7 @@
 <body>
 <?php 
 echo "测试git";
+echo "修改后！";
 ?>
 </body>
 </html>
